@@ -2,14 +2,14 @@
 
 # How to use
 
-replace the value of the username variable (line 6) with the name in your file directories
-to check what that name is open a file on file explorer, right click it and click copy as path
-paste that into a new tab and it should be layed out like this C:\Users\[YOUR NAME HERE]\filename
+- replace the value of the username variable (line 6) with the name in your file directories
+- to check what that name is open a file on file explorer, right click it and click copy as path
+- paste that into a new tab and it should be layed out like this C:\Users\[YOUR NAME HERE]\filename
 
-then replace the cooldown variable's value with the amount of seconds you want the program to wait before it runs again
-(The higher the number the less it will use up your cpu)
+- then replace the cooldown variable's value with the amount of seconds you want the program to wait before it runs again
+- (The higher the number the less it will use up your cpu)
 
-then you can run the program with the command "python3 Main.py" in the terminal!
+- then you can run the program with the command "python3 Main.py" in the terminal!
 
 # How it works
 
